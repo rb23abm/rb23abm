@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]  
+# Hi there 👋, I'm Ravi Teja Bejugama  
 
 🎓 **MSc Data Science & Advanced Research** student at the **University of Hertfordshire**  
 💻 Passionate about **open-source**, **collaborative coding**, and **data-driven solutions**  
